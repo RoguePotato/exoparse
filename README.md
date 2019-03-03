@@ -1,6 +1,6 @@
 # Exoparse
 
-Parses the CSV formatted [EU](exoplanet.eu) or
+Parses the CSV formatted [EU](http://exoplanet.eu/) or
 [NASA](https://exoplanetarchive.ipac.caltech.edu/) exoplanet archives. Output is
 provided as a consisent number of column, tab-separated values where NULL values
 or string in the original database are replaced with zeros. This makes it easier
